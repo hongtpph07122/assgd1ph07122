@@ -24,7 +24,7 @@
             ],
             "styles": [
               "src/styles.css",
-              "src/assets/libs/css/style.css"
+              "src/assets/libs/css/style.css",
               "src/assets/vendor/fonts/fontawesome/css/fontawesome-all.css"
             ],
             "scripts": []
